@@ -1,11 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://example.com/example.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://example.com/image.57x57.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://example.com/image.512x512.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.xxx.xxx</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Example</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>iosAPP下载</title>
-</head>
-<body>
-<a href="itms-services://?action=download-manifest&url=https://github.com/jw4654061/xy/blob/master/ios.plist">下载iOS版本安装包</a>
-<h1>IOS下载</h1>
-</body>
-</html>
+ط֟úUser106
+tޓúhttps://www.jianshu.com/p/5472c7726596
+­Դúݲ˩
+ݲ˩׸طȨکط̹֟ԐìɎێюʽքת՘ּȫjϵطܱ֟փ˚ȨҢעķԶԦc
