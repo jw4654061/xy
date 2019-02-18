@@ -5,7 +5,7 @@
 <title>iosAPP下载</title>
 </head>
 <body>
-<a href="itms-services://?action=download-manifest&url="> <img src="http://192.168.91.11/ios/iconfive.jpg" ></a>
+<a href="itms-services://?action=download-manifest&url=https://github.com/jw4654061/xy/blob/master/ios.plist">下载iOS版本安装包</a>
 <h1>IOS下载</h1>
 </body>
 </html>
