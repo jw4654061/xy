@@ -17,21 +17,21 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://192.168.0.77:8077/assets/images/logo.png</string>
+                    <string>https://github.com/jw4654061/xy/blob/master/logo.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://192.168.0.77:8077/assets/images/logo.png</string>
+                    <string>https://github.com/jw4654061/xy/blob/master/logo.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xxx.xxx</string>
+                <string>com.huarong.Loansing</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
